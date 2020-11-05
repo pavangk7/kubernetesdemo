@@ -70,18 +70,18 @@ and clone the lab code repository to it.
 1. Clone the lab repository in your cloud shell, then `cd` into that dir:
 
    ```shell
-   git clone https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes.git
+   git clone https://github.com/pavangk7/kubernetesdemo.git
    ```
 
    Output (do not copy):
 
    ```output
-   Cloning into 'continuous-deployment-on-kubernetes'...
+   Cloning into 'kubernetesdemo'...
    ...
    ```
 
    ```shell
-   cd continuous-deployment-on-kubernetes
+   cd kubernetesdemo
    ```
 
 ## Create a Service Account with permissions
